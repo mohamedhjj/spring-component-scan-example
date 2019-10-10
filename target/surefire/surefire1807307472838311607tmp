@@ -1,0 +1,32 @@
+#surefire
+#Thu Oct 10 16:29:45 CEST 2019
+testClassesDirectory=D\:\\gitExamples\\spring-component-scan-example\\target\\test-classes
+classPathUrl.4=C\:\\Users\\frup44669\\.m2\\repository\\org\\springframework\\spring-beans\\4.3.5.RELEASE\\spring-beans-4.3.5.RELEASE.jar
+classPathUrl.3=C\:\\Users\\frup44669\\.m2\\repository\\org\\springframework\\spring-aop\\4.3.5.RELEASE\\spring-aop-4.3.5.RELEASE.jar
+classPathUrl.2=C\:\\Users\\frup44669\\.m2\\repository\\org\\springframework\\spring-context\\4.3.5.RELEASE\\spring-context-4.3.5.RELEASE.jar
+useManifestOnlyJar=true
+classPathUrl.1=D\:\\gitExamples\\spring-component-scan-example\\target\\classes
+reportsDirectory=D\:\\gitExamples\\spring-component-scan-example\\target\\surefire-reports
+classPathUrl.0=D\:\\gitExamples\\spring-component-scan-example\\target\\test-classes
+dirscanner.0=directoryScannerOptions
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=D\:\\gitExamples\\spring-component-scan-example\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\frup44669\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.7.1\\surefire-api-2.7.1.jar
+surefireClassPathUrl.0=C\:\\Users\\frup44669\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit3\\2.7.1\\surefire-junit3-2.7.1.jar
+report.2=org.apache.maven.surefire.report.XMLReporter
+useSystemClassLoader=true
+report.1=org.apache.maven.surefire.report.BriefFileReporter
+report.0=org.apache.maven.surefire.report.ForkingConsoleReporter
+excludes0=**/*$*
+isTrimStackTrace=true
+dirscanner.0.params=D\:\\gitExamples\\spring-component-scan-example\\target\\test-classes|[**/Test*.java, **/*Test.java, **/*TestCase.java]|[**/*$*]
+includes2=**/*TestCase.java
+enableAssertions=true
+includes1=**/*Test.java
+failIfNoTests=false
+includes0=**/Test*.java
+dirscanner.0.types=java.io.File|java.util.ArrayList|java.util.ArrayList
+classPathUrl.7=C\:\\Users\\frup44669\\.m2\\repository\\org\\springframework\\spring-expression\\4.3.5.RELEASE\\spring-expression-4.3.5.RELEASE.jar
+childDelegation=false
+classPathUrl.6=C\:\\Users\\frup44669\\.m2\\repository\\commons-logging\\commons-logging\\1.2\\commons-logging-1.2.jar
+classPathUrl.5=C\:\\Users\\frup44669\\.m2\\repository\\org\\springframework\\spring-core\\4.3.5.RELEASE\\spring-core-4.3.5.RELEASE.jar
